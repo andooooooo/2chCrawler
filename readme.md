@@ -1,6 +1,6 @@
 # ABOUT
-2chのスレッドを自動保存する。<br/>
-スレッド保持数が少なく、保存しやすい、なんでも実況Jを対象にした。<br/>
-<a href="http://2ch-ranking.net/index.html?board=livejupiter">2ch勢いランキング</a>のサイトから50レス以上ついたスレッドを逐次取得する。<br/>
+Automatic storing threads from 2ch.net(textboard).<br/>
+This program targets "Livejupiter" board, because it keep few threads(about 40).Also taking threads is easy.<br/>
+Getting threads that 50 and over comments sequentially from <a href="http://2ch-ranking.net/index.html?board=livejupiter">"2chan ikioi Ranking".</a>
 
 
